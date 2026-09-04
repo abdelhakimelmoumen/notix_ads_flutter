@@ -3,9 +3,9 @@ description: >
   Unofficial Flutter plugin that wraps the Monetag (Notix) Android In-App SDK,
   exposing Interstitial, App Open and Push Notification ad formats to Dart.
 version: 0.1.0
-homepage: https://github.com/your-org/notix_ads_flutter
-repository: https://github.com/your-org/notix_ads_flutter
-issue_tracker: https://github.com/your-org/notix_ads_flutter/issues
+homepage: https://github.com/abdelhakimelmoumen/notix_ads_flutter
+repository: https://github.com/abdelhakimelmoumen/notix_ads_flutter
+issue_tracker: https://github.com/abdelhakimelmoumen/notix_ads_flutter/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
